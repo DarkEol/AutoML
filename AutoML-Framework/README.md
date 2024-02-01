@@ -4,7 +4,7 @@ AutoML-Framework that uniting several popular AutoML tools. Different AutoML lib
 
 The framework takes as input the dataset, the ratio in which the data has to be splitted into train and test sets and the time limit for each possible solution to run. Then each AutoML library runs in a separate thread with given data and limits. After the search is done, the results are summed up in a common table. The general architecture of the framework is shown in Fig. 1.
 
-![The San Juan Mountains are beautiful!](framework.png "San Juan Mountains")
+![AutoML Framework architecture!](framework.png "AutoML Framework architecture")
 
 The framework contains the following modules:
 
