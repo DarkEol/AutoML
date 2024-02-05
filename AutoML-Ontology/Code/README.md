@@ -1,6 +1,6 @@
 # AutoML-Ontology
 
-The process of creation and use of the ontology is made in three steps same for all used AutoML libraries:
+The process of creation and use of the ontology is made in three steps same for all AutoML libraries being used:
 
 1. XXX_Meta.ipynb - preparation of the training meta-data. At this step extraction of meta-features from training datasets is made along with search for a best model suggested for a given task by the considered AutoML library.
 
