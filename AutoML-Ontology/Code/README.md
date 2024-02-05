@@ -2,7 +2,7 @@
 
 The process of creation and use of the ontology is made in three steps same for all AutoML libraries being used:
 
-1. XXX_Meta.ipynb - preparation of the training meta-data. At this step extraction of meta-features from training datasets is made along with search for a best model suggested for a given task by the considered AutoML library.
+1. XXX_Meta.ipynb - preparation of the training meta-data. At this step extraction of meta-features from training datasets is made along with search for a best model suggested for a given task by the considered AutoML library. The results are saved as csv and xlsx files.
 
 2. XXX_DecisionTree - preparation of the ontology. The meta-data that was obtained at the previous step is used for creation of the ontology. The ontology is created by traversing a decision tree that is built from meta-features with suggested algorithm as a target.
 
