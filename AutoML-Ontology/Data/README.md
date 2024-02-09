@@ -6,4 +6,4 @@
 
 - **ontology-XX-h2o** - contains ontology for H2O AutoML created from meta-features of XX datasets.
   
-- **OntologyEmpty** - contains empty ontology to be filled by the script [AutoSki_DecisionTree](../Code/AutoSki_DecisionTree.ipynb) for H2O or by [AutoH2O_DecisionTree](../Code/AutoH2O_DecisionTree.ipynb) for H2O.
+- **OntologyEmpty** - contains empty ontology to be filled by the script [AutoSki_DecisionTree](../Code/AutoSki_DecisionTree.ipynb) for Auto-sklearn or by [AutoH2O_DecisionTree](../Code/AutoH2O_DecisionTree.ipynb) for H2O.
