@@ -1,3 +1,9 @@
-- **features-h2o-40-semi.csv** - contains meta-features from 40 datasets.
+- **mfeatures-XX-as** - contains meta-features from XX datasets along with algorithms suggested by Auto-sklearn.
 
-- **decisionTree40.txt** - decision tree created from meta-features of 40 datasets. 
+- **mfeatures-XX-h2o** - contains meta-features from XX datasets along with algorithms suggested by H2O AutoML.
+
+- **ontology-XX-as** - contains ontology for Auto-sklearn created from meta-features of XX datasets.
+
+- **ontology-XX-h2o** - contains ontology for H2O AutoML created from meta-features of XX datasets.
+  
+- **OntologyEmpty** - contains empty ontology to be filled by [AutoSki_MetaOnto](../Code/AutoSki_MetaOnto.ipynb). for H2O or by [AutoH2O_MetaOnto](../Code/AutoH2O_MetaOnto.ipynb). for H2O
