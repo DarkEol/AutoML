@@ -1,4 +1,4 @@
-# AutoML-Ontology
+# AutoML - Code for Ontology creation
 
 The process of creation and use of the ontology is made in three steps that are the same for all AutoML libraries being used:
 
