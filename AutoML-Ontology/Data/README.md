@@ -6,4 +6,4 @@
 
 - **ontology-XX-h2o** - contains ontology for H2O AutoML created from meta-features of XX datasets.
   
-- **OntologyEmpty** - contains empty ontology to be filled by [AutoSki_MetaOnto](../Code/AutoSki_MetaOnto.ipynb). for H2O or by [AutoH2O_MetaOnto](../Code/AutoH2O_MetaOnto.ipynb). for H2O
+- **OntologyEmpty** - contains empty ontology to be filled by [AutoSki_MetaOnto](../Code/AutoSki_MetaOnto.ipynb) for H2O or by [AutoH2O_MetaOnto](../Code/AutoH2O_MetaOnto.ipynb). for H2O
